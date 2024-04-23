@@ -1,3 +1,5 @@
+注，该仓库是我fork原作者以作备份的，[原仓库链接](https://github.com/wokron/BUAA-OS-2023/tree/main)
+从这句话以后，所有的“我”指的是该仓库的原作者
 # BUAA-OS-2023
 北航 2023 春操作系统实验课的笔记、代码。欢迎 star :)
 
